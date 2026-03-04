@@ -46,7 +46,7 @@ Clone este repositório e configure o ambiente virtual:
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/SEU-USUARIO/bi-conversacional-ai.git](https://github.com/SEU-USUARIO/bi-conversacional-ai.git)
+git clone [https://github.com/ViniMBlanco/bi-conversacional-ai.git](https://github.com/ViniMBlanco/bi-conversacional-ai.git)
 cd bi-conversacional-ai
 
 # Crie um ambiente virtual (recomendado)
